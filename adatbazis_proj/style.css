@@ -1,0 +1,21 @@
+.profil {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+  float: left;
+  text-align: center;
+}
+
+.dprofil {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+  float: left;
+  text-align: center;
+}
+
+
+img { width: 100px; height: 100px; object-fit: cover; border-radius: 50%; }
+  
